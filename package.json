@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^6.2.0",
-    "astro": "^2.1.0"
+    "@astrojs/solid-js": "^2.1.0",
+    "astro": "^2.1.0",
+    "solid-js": "^1.4.3"
   }
 }
